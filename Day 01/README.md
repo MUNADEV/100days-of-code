@@ -1,7 +1,7 @@
 
 # Proyect Day 1
 
-### Task
+### Instructions
 
 - Create a greeting for your program.
 
