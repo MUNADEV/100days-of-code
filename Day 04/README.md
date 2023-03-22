@@ -16,3 +16,17 @@ From there you will need to figure out:
 - And also how you will give feedback to the player.
 
 You can find the "official" rules of the game on the World Rock Paper Scissors Association website.
+
+## Solution
+
+#### Win
+
+![solution1](solution03-img.png)
+
+### Draw
+
+![solution2](solution01-img.png)
+
+### Lose
+
+![solution3](solution02-img.png)
