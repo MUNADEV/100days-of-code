@@ -23,7 +23,7 @@ easy_password = ""
 hard_password = []
 
 #Eazy Level - Order not randomised:
-#e.g. 4 letter, 2 symbol, 2 number = JduE&!91
+#e.g. 4 letter, 2 symbol, 2 number = JduE&!92
 for i in range(num_letters):
     easy_password += random.choice(letters)
 for i in range(num_symbols):
@@ -34,7 +34,7 @@ for i in range(num_numbers):
 print("Easy version password: " + easy_password)
 
 #Hard Level - Order of characters randomised:
-#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&p
 for i in range(num_letters):
     hard_password.append(random.choice(letters))
 for i in range(num_symbols):
